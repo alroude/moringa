@@ -1,2 +1,1 @@
-# moringa
-Moringa Prep
+This is The First Moringa School Assignment
