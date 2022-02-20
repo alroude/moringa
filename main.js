@@ -10,3 +10,18 @@ function add(n) {
 }
 
 console.log(add(5));
+
+
+// Function that takes 1 argument (n) and returns the sum of the total from n until 1
+
+function add(n) {
+    let sum = 0;
+    let i = 1;
+    while(i <= n) {
+        sum += i;
+        i++;
+    }
+    return sum;
+}
+
+console.log(add(5));
