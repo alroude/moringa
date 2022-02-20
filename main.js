@@ -1,5 +1,5 @@
 
-// Function that takes 1 argument (n) and returns the sum of the total from n until 1
+// Function that takes 1 argument (n) and returns the sum of the total from n until 1 (USING FOR LOOP)
 
 function add(n) {
     let sum = 0;
@@ -12,7 +12,7 @@ function add(n) {
 console.log(add(5));
 
 
-// Function that takes 1 argument (n) and returns the sum of the total from n until 1
+// Function that takes 1 argument (n) and returns the sum of the total from n until 1 (USING WHILE LOOP)
 
 function add(n) {
     let sum = 0;
